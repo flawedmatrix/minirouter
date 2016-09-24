@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/tedsuo/ifrit"]
+	path = vendor/github.com/tedsuo/ifrit
+	url = https://github.com/tedsuo/ifrit
